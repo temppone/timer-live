@@ -1,0 +1,45 @@
+body{
+  background-color: #fff6db;
+  color: #224061;
+}
+
+.notice h1{
+  background: #224061;
+  color: #fdac43;
+  padding: 10px;
+  width: 180px;
+  margin: 0 auto;
+}
+
+.notice{
+  width: 100%;
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 300px;
+}
+
+.countdown{
+  font-size: 30px;
+}
+@keyframes blink{
+  78% {
+    color: inherit;
+  }
+  80% {
+    color: #333;
+  }
+  81% {
+    color: inherit;
+  }
+  83% {
+    color: #333;
+  }
+  92% {
+    color: inherit;
+  }
+  92.5%{
+    color: #333;
+  }
+
+
+}
